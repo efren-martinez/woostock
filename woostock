@@ -1,7 +1,6 @@
 <?php
 global $woo_options;
-?>
-<script type="text/javascript" src="http://code.jquery.com/jquery-1.8.3.min.js"></script>     
+?>   
 <script type="text/javascript">
 $(document).ready(function(){
    $('.topLink').click(function(){
@@ -11,8 +10,8 @@ $(document).ready(function(){
 </script>
 <head>   
   <style>
-		table { border: 1px solid #000; width: 100%; }
-		table td, table th { border: 1px solid #000; padding: 6px; }
+		table { border: 1px solid #0093bb; width: 100%; }
+		table td, table th { border: 1px solid #0093bb; padding: 6px; }
         .topLink { border:solid 1px #39c; padding:4px 8px; border-radius:4px; margin:6px; box-shadow:0px 0px 3px #000; }
 	</style>
 <style media="print">
